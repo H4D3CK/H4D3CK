@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro!  
 
-🎮 Gamer & Streamer | 💻 Linux lover | 🚀 Sempre aprendendo  
+🎮 Gamer | 💻 Windows | 🚀 Sempre aprendendo  
 
 ---
 
@@ -19,14 +19,8 @@
 ---
 
 ## 🌐 Onde me encontrar  
-- 🎥 Kick: [HadecK](https://kick.com/HadecK)  
-- 🎮 Twitch: [HeyHadeck](https://twitch.tv/HeyHadeck)  
-- 💬 Discord: Elite no Way  
+- 💬 Discord: hadeck
 
-###
-
-<img src="https://raw.githubusercontent.com/H4D3CK/H4D3CK/output/snake.svg" alt="Snake animation" />
-
-###
+---
 
 ✨ “Código e games: dois mundos que se complementam.”  
