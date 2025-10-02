@@ -23,10 +23,10 @@
 - 🎮 Twitch: [HeyHadeck](https://twitch.tv/HeyHadeck)  
 - 💬 Discord: Elite no Way  
 
----
+###
 
 <img src="https://raw.githubusercontent.com/H4D3CK/H4D3CK/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 ✨ “Código e games: dois mundos que se complementam.”  
