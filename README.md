@@ -1,14 +1,34 @@
-## Hi there 👋
-  
-**H4D3CK/H4D3CK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Pedro!  
 
-Here are some ideas to get you started:
+🎮 Gamer & Streamer | 💻 Linux lover | 🚀 Sempre aprendendo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🌟 Sobre mim  
+- 🔭 Trabalhando em projetos pessoais e explorando novas tecnologias.  
+- 🌱 Aprendendo DevOps, Cloud e brincando com distros Linux.  
+- 🎮 Nas horas vagas, explorando Washington D.C. em **The Division 2**.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+- **Linguagens:** Python, JavaScript, Bash  
+- **Ferramentas:** Git, Docker, CI/CD  
+- **Sistemas Operacionais:** Pop!_OS, CachyOS  
+
+---
+
+## 📊 Estatísticas do GitHub  
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRocha&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocha&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Onde me encontrar  
+- 🎥 Kick: [HadecK](https://kick.com/HadecK)  
+- 🎮 Twitch: [HeyHadeck](https://twitch.tv/HeyHadeck)  
+- 💬 Discord: Elite no Way  
+
+---
+
+✨ “Código e games: dois mundos que se complementam.”  
