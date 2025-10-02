@@ -18,16 +18,14 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRocha&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocha&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Onde me encontrar  
 - 🎥 Kick: [HadecK](https://kick.com/HadecK)  
 - 🎮 Twitch: [HeyHadeck](https://twitch.tv/HeyHadeck)  
 - 💬 Discord: Elite no Way  
+
+---
+
+<img src="https://raw.githubusercontent.com/H4D3CK/H4D3CK/output/snake.svg" alt="Snake animation" />
 
 ---
 
